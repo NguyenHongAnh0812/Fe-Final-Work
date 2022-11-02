@@ -21,7 +21,7 @@ function Header({countItems}) {
                         <div className="header__higher-info">
                             <div className="header__higher-info-mail">
                                 <i className="fa-solid fa-envelope"></i>
-                                <span>petsla.vn@gmail.com</span>
+                                <span>petsla.vn@gmail.com.vn</span>
                             </div>
                             <div className = "divide">
                             </div>
