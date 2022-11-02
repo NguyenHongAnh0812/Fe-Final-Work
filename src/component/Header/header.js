@@ -27,7 +27,7 @@ function Header({countItems}) {
                             </div>
                             <div className="header__higher-info-phone">
                                 <i className="fa-solid fa-phone"></i>
-                                <span>0123 456 7867769</span>
+                                <span>0123 456 dfsdfsdf7867769</span>
                             </div>
                             <div className="header__higher-info-img">
                                 {/* <Link to = "/"> */}
